@@ -35,7 +35,7 @@ namespace FYPWorkShop.Controllers
             return View(student);
         }
 
-        // GET: Students/Create
+        // GET: Students/Createc
         public ActionResult Create()
         {
             return View();
